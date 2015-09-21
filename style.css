@@ -1,0 +1,63 @@
+.background {
+	 background-color:;
+	 background-image:;
+	 background-repeat:;
+	 background-attachment:;
+	 background-position:;
+
+}
+
+.text { 
+
+	 color:;
+	 text-align:;
+	 text-decoration:;
+	 text-transform:;
+	 text-indent:;
+}
+
+.font {
+    
+    
+    font-style:;
+    font-weight:;
+    font-size:;
+    font-family:;
+}
+ 
+
+ a:link{}
+ a:hover{}
+ a:visited{}
+ a:active{}
+
+
+
+ ul ol {
+ 	list-style-type:;
+ 	list-style-position:;
+ 	list-style-image:;  
+
+ 	}
+
+ 	table {
+
+ 		width:;
+ 		height:;
+ 		border: width style color ;
+
+ 		color:;
+ 		background-color:; 	 		
+ 		text-align:;
+ 		vertical-align:;
+
+ 	}
+
+ 	div{
+
+ 		height:;
+ 		width:;
+ 		padding:;
+ 		margin:;
+ 		border:width style color;
+ 	}
